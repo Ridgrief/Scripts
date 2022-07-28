@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Script"))()
+loadstring(game:GetObjects("rbxassetid://8194485654")[1].Source)("Petsi-X")
