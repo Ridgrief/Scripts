@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://www.scriptblox.com/raw/Project-Meow_421"))()
+getgenv (). AuthKey = "HUGE_ddz2Dw0TJuWYhQzK"
+getgenv (). LoadSettings ={
+DisableStartupPrompt= false
+}
+loadstring ( game : HttpGet ( "https://HugeGames.io/script" ))()
